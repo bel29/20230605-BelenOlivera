@@ -1,0 +1,14 @@
+touch resumen.txt
+ cd ../SeguridadInformatica
+touch resumen.txt
+cd ../Software
+touch resumen.txt
+ls
+ git add . 
+ git status
+git commit -m "commit 02 de Belen Olivera"
+git push origin feature / main
+git checkout main
+git mv index.html resumenSoftware.txt
+
+Git checkout -b nombre_Rama

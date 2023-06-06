@@ -1,0 +1,5 @@
+1.Memoria RAM (Random Access Memory): Es una memoria de acceso aleatorio y volátil utilizada para almacenar temporalmente los datos y programas que la computadora está utilizando en ese momento.
+
+2.Memoria caché: Es una memoria de alta velocidad y pequeña capacidad que actúa como intermediario entre la CPU y la memoria RAM. La caché almacena los datos y las instrucciones más utilizados por la CPU, lo que ayuda a acelerar el acceso a ellos y mejora el rendimiento general del sistema.
+
+3.Memoria ROM (Read-Only Memory): Es una memoria de solo lectura que almacena instrucciones y datos permanentes. A diferencia de la RAM, la memoria ROM conserva su contenido incluso cuando se apaga la computadora. Se utiliza para almacenar el firmware del sistema, como la BIOS (Basic Input/Output System), que se encarga de iniciar el hardware y cargar el sistema operativo al arrancar la computadora.

@@ -1,14 +1,21 @@
-touch resumen.txt
- cd ../SeguridadInformatica
+Git init 
+Git remote add origin
+git add comandos.txt main.js index.html
+git commit -m "commit 01 de Belen Olivera"
+git push origin main
+Git checkout -b feature
+mkdir Hardware Software SeguridadInformatica
+cd Hardware
 touch resumen.txt
 cd ../Software
+touch resumen.txt
+cd ../SeguridadInformatica
 touch resumen.txt
 ls
  git add . 
  git status
 git commit -m "commit 02 de Belen Olivera"
-git push origin feature / main
+git push origin feature
 git checkout main
+git mv main.js resumenHardware.txt
 git mv index.html resumenSoftware.txt
-
-Git checkout -b nombre_Rama
